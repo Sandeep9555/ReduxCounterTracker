@@ -1,8 +1,24 @@
-# React + Vite
+# ReduxCounterTracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Counter Tracker application built using Redux for state management. It demonstrates the core concepts of Redux, including actions, reducers, store creation, and selectors.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Increment and decrement a counter.
+- Reset the counter to zero.
+- Simple state management using Redux.
+
+## Technologies Used
+
+- **JavaScript**: The primary programming language for this application.
+- **Redux**: A predictable state container for JavaScript applications.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/ReduxCounterTracker.git
+   cd ReduxCounterTracker
